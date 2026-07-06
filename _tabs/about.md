@@ -26,6 +26,6 @@ and a way to track how I'm growing as an engineer, one project at a time.
 
 ## Get in touch
 
-- GitHub: [github.com/GIKIK7](https://github.com/GIKIK7)
+- GitHub: [github.com/mateusz-fejcher7](https://github.com/mateusz-fejcher7)
 - LinkedIn: [linkedin.com/in/mateusz-fejcher](https://www.linkedin.com/in/mateusz-fejcher-417a28228/)
 - Email: [mateusz.fejcher@gmail.com](mailto:mateusz.fejcher@gmail.com)
